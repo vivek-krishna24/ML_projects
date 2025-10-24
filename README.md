@@ -36,4 +36,4 @@ It trains an LSTM model on a text corpus (e.g., Sherlock Holmes stories) and pre
 ## 📚 Dataset
 
 You can use any large plain-text dataset.  
-In this example, the project uses:
+In this example, the project uses:sherlock-holm.es_stories_plain-text_advs
